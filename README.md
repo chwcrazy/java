@@ -1,2 +1,2 @@
-java
+These projects are finished in Java.
 ====
